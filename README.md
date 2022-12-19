@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ItsJvarman
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me at https://www.linkedin.com/in/jayavarman-d-7ba774217/
 
 <!---
